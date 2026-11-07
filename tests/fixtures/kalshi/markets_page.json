@@ -1,0 +1,32 @@
+{
+  "cursor": "CgwIubSz1wYQ4I_bjgISIktYVUVDTFRFQU1UT1RBTC0yNk5PVjA1RkNNQUpBLUFKQTc",
+  "markets": [
+    {
+      "ticker": "KXUELTEAMTOTAL-26NOV05SPABOU-BOU5",
+      "event_ticker": "KXUELTEAMTOTAL-26NOV05SPABOU",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.0000",
+      "yes_ask_dollars": "0.9300"
+    },
+    {
+      "ticker": "KXUECLSPREAD-26NOV05FCMAJA-AJA6",
+      "event_ticker": "KXUECLSPREAD-26NOV05FCMAJA",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T17:45:00Z",
+      "yes_bid_dollars": "0.0500",
+      "yes_ask_dollars": "0.5100"
+    },
+    {
+      "ticker": "KXUECLTEAMTOTAL-26NOV05FCMAJA-AJA7",
+      "event_ticker": "KXUECLTEAMTOTAL-26NOV05FCMAJA",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.0000",
+      "yes_ask_dollars": "0.5300"
+    }
+  ]
+}

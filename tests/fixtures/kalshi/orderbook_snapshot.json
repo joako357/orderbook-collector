@@ -1,0 +1,31 @@
+{
+  "type": "orderbook_snapshot",
+  "sending_ts_ms": 1669149841234,
+  "sid": 2,
+  "seq": 2,
+  "msg": {
+    "market_ticker": "FED-23DEC-T3.00",
+    "market_id": "9b0f6b43-5b68-4f9f-9f02-9a2d1b8ac1a1",
+    "clock": 4182057,
+    "yes_dollars_fp": [
+      [
+        "0.0800",
+        "300.00"
+      ],
+      [
+        "0.2200",
+        "333.00"
+      ]
+    ],
+    "no_dollars_fp": [
+      [
+        "0.5400",
+        "20.00"
+      ],
+      [
+        "0.5600",
+        "146.00"
+      ]
+    ]
+  }
+}

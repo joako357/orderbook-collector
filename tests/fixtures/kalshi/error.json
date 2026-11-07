@@ -1,0 +1,9 @@
+{
+  "id": 123,
+  "type": "error",
+  "sending_ts_ms": 1669149841234,
+  "msg": {
+    "code": 7,
+    "msg": "Unknown subscription ID"
+  }
+}

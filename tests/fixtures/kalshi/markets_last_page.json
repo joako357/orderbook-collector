@@ -1,0 +1,59 @@
+{
+  "cursor": "",
+  "markets": [
+    {
+      "ticker": "KXUELTEAMTOTAL-26NOV05SPABOU-BOU5",
+      "event_ticker": "KXUELTEAMTOTAL-26NOV05SPABOU",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.0000",
+      "yes_ask_dollars": "0.5500"
+    },
+    {
+      "ticker": "KXUELTEAMTOTAL-26NOV05SPABOU-BOU4",
+      "event_ticker": "KXUELTEAMTOTAL-26NOV05SPABOU",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.0100",
+      "yes_ask_dollars": "0.1900"
+    },
+    {
+      "ticker": "KXUELTEAMTOTAL-26NOV05SPABOU-SPA3",
+      "event_ticker": "KXUELTEAMTOTAL-26NOV05SPABOU",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.0000",
+      "yes_ask_dollars": "0.0100"
+    },
+    {
+      "ticker": "KXUELTEAMTOTAL-26NOV05SPABOU-SPA2",
+      "event_ticker": "KXUELTEAMTOTAL-26NOV05SPABOU",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.0100",
+      "yes_ask_dollars": "0.7000"
+    },
+    {
+      "ticker": "KXUELTEAMTOTAL-26NOV05SPABOU-SPA1",
+      "event_ticker": "KXUELTEAMTOTAL-26NOV05SPABOU",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.9900",
+      "yes_ask_dollars": "1.0000"
+    },
+    {
+      "ticker": "KXUELTEAMTOTAL-26NOV05SPABOU-BOU3",
+      "event_ticker": "KXUELTEAMTOTAL-26NOV05SPABOU",
+      "market_type": "binary",
+      "status": "active",
+      "close_time": "2026-11-07T23:45:00Z",
+      "yes_bid_dollars": "0.9900",
+      "yes_ask_dollars": "1.0000"
+    }
+  ]
+}

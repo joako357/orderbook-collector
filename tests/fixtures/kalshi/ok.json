@@ -1,0 +1,14 @@
+{
+  "id": 123,
+  "sid": 456,
+  "seq": 222,
+  "type": "ok",
+  "sending_ts_ms": 1669149841234,
+  "msg": {
+    "market_tickers": [
+      "MARKET-1",
+      "MARKET-2",
+      "MARKET-3"
+    ]
+  }
+}
